@@ -207,7 +207,7 @@
   .header-top {
     padding: 10px 0px;
   }
-  .header-right {
+  .header-right text-center{
     float: none !important;
     text-align: center;
     margin-top: 10px;
@@ -265,7 +265,7 @@
     margin-left: 0px;
     margin-bottom: 30px;
   }
-  .Course Platform-course-topics-header .Course Platform-course-topics-header-right {
+  .Course Platform-course-topics-header .Course Platform-course-topics-header-right text-center{
     margin-right: 0px;
     margin-top: 20px;
   }
@@ -321,7 +321,7 @@
   .header-top {
     padding: 10px 0px;
   }
-  .header-right {
+  .header-right text-center{
     float: none !important;
     text-align: center;
     margin-top: 10px;
